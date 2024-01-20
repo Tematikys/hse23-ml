@@ -1,0 +1,18 @@
+﻿name: env
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - plotly
+  - seaborn
+  - scikit-learn
+  - scipy
+  - seaborn
+  - statsmodels
+  - nltk
+  - gensim
+  - jupyter
+  - jupyterlab
